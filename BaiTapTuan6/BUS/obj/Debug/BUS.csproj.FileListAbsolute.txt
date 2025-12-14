@@ -1,0 +1,15 @@
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\bin\Debug\BUS.dll.config
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\bin\Debug\BUS.dll
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\bin\Debug\BUS.pdb
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\bin\Debug\DAL.dll
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\bin\Debug\EntityFramework.dll
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\bin\Debug\DAL.pdb
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\bin\Debug\DAL.dll.config
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\bin\Debug\EntityFramework.xml
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\obj\Debug\BUS.csproj.Up2Date
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\obj\Debug\BUS.dll
+C:\Users\lequa\source\repos\BTVNLapTrinhWindows\BaiTapTuan6\BUS\obj\Debug\BUS.pdb
