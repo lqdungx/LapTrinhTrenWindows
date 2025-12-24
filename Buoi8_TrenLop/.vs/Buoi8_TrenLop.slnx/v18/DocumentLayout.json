@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodeLTWindows\\BTTrenLop\\Buoi8_TrenLop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C63E13-8417-4E07-B3BD-A7202D06809C}|Bai1_DataBinding\\Bai1_DataBinding.csproj|d:\\codeltwindows\\bttrenlop\\buoi8_trenlop\\bai1_databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C63E13-8417-4E07-B3BD-A7202D06809C}|Bai1_DataBinding\\Bai1_DataBinding.csproj|solutionrelative:bai1_databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C63E13-8417-4E07-B3BD-A7202D06809C}|Bai1_DataBinding\\Bai1_DataBinding.csproj|d:\\codeltwindows\\bttrenlop\\buoi8_trenlop\\bai1_databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{53C63E13-8417-4E07-B3BD-A7202D06809C}|Bai1_DataBinding\\Bai1_DataBinding.csproj|solutionrelative:bai1_databinding\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C63E13-8417-4E07-B3BD-A7202D06809C}|Bai1_DataBinding\\Bai1_DataBinding.csproj|d:\\codeltwindows\\bttrenlop\\buoi8_trenlop\\bai1_databinding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C63E13-8417-4E07-B3BD-A7202D06809C}|Bai1_DataBinding\\Bai1_DataBinding.csproj|solutionrelative:bai1_databinding\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\CodeLTWindows\\BTTrenLop\\Buoi8_TrenLop\\Bai1_DataBinding\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Bai1_DataBinding\\Models\\Student.cs",
+              "ToolTip": "D:\\CodeLTWindows\\BTTrenLop\\Buoi8_TrenLop\\Bai1_DataBinding\\Models\\Student.cs",
+              "RelativeToolTip": "Bai1_DataBinding\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T03:10:41.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CodeLTWindows\\BTTrenLop\\Buoi8_TrenLop\\Bai1_DataBinding\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1_DataBinding\\Form1.cs",
+              "ToolTip": "D:\\CodeLTWindows\\BTTrenLop\\Buoi8_TrenLop\\Bai1_DataBinding\\Form1.cs",
+              "RelativeToolTip": "Bai1_DataBinding\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T03:06:59.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\CodeLTWindows\\BTTrenLop\\Buoi8_TrenLop\\Bai1_DataBinding\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai1_DataBinding\\Form1.cs",
+              "ToolTip": "D:\\CodeLTWindows\\BTTrenLop\\Buoi8_TrenLop\\Bai1_DataBinding\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai1_DataBinding\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T02:56:16.911Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\bin\Debug\Bai1_DataBinding.exe.config
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\bin\Debug\Bai1_DataBinding.exe
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\bin\Debug\Bai1_DataBinding.pdb
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\bin\Debug\EntityFramework.dll
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\bin\Debug\EntityFramework.SqlServer.dll
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\bin\Debug\EntityFramework.xml
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\bin\Debug\EntityFramework.SqlServer.xml
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\obj\Debug\Bai1_DataBinding.csproj.AssemblyReference.cache
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\obj\Debug\Bai1_DataBinding.Form1.resources
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\obj\Debug\Bai1_DataBinding.Properties.Resources.resources
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\obj\Debug\Bai1_DataBinding.csproj.GenerateResource.cache
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\obj\Debug\Bai1_DataBinding.csproj.CoreCompileInputs.cache
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\obj\Debug\Bai1_Dat.27E498B2.Up2Date
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\obj\Debug\Bai1_DataBinding.exe
+D:\CodeLTWindows\BTTrenLop\Buoi8_TrenLop\Bai1_DataBinding\obj\Debug\Bai1_DataBinding.pdb
