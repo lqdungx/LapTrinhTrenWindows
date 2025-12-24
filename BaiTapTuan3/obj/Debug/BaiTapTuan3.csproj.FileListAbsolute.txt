@@ -1,0 +1,10 @@
+C:\Users\lequa\source\repos\BaiTapTuan3\bin\Debug\BaiTapTuan3.exe.config
+C:\Users\lequa\source\repos\BaiTapTuan3\bin\Debug\BaiTapTuan3.exe
+C:\Users\lequa\source\repos\BaiTapTuan3\bin\Debug\BaiTapTuan3.pdb
+C:\Users\lequa\source\repos\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.AssemblyReference.cache
+C:\Users\lequa\source\repos\BaiTapTuan3\obj\Debug\BaiTapTuan3.From1.resources
+C:\Users\lequa\source\repos\BaiTapTuan3\obj\Debug\BaiTapTuan3.Properties.Resources.resources
+C:\Users\lequa\source\repos\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.GenerateResource.cache
+C:\Users\lequa\source\repos\BaiTapTuan3\obj\Debug\BaiTapTuan3.csproj.CoreCompileInputs.cache
+C:\Users\lequa\source\repos\BaiTapTuan3\obj\Debug\BaiTapTuan3.exe
+C:\Users\lequa\source\repos\BaiTapTuan3\obj\Debug\BaiTapTuan3.pdb

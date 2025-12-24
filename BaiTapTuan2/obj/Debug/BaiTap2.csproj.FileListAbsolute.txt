@@ -1,0 +1,7 @@
+C:\Users\Le Nguyen Quynh Anh\source\repos\BaiTap2\bin\Debug\BaiTap2.exe.config
+C:\Users\Le Nguyen Quynh Anh\source\repos\BaiTap2\bin\Debug\BaiTap2.exe
+C:\Users\Le Nguyen Quynh Anh\source\repos\BaiTap2\bin\Debug\BaiTap2.pdb
+C:\Users\Le Nguyen Quynh Anh\source\repos\BaiTap2\obj\Debug\BaiTap2.csproj.AssemblyReference.cache
+C:\Users\Le Nguyen Quynh Anh\source\repos\BaiTap2\obj\Debug\BaiTap2.csproj.CoreCompileInputs.cache
+C:\Users\Le Nguyen Quynh Anh\source\repos\BaiTap2\obj\Debug\BaiTap2.exe
+C:\Users\Le Nguyen Quynh Anh\source\repos\BaiTap2\obj\Debug\BaiTap2.pdb
